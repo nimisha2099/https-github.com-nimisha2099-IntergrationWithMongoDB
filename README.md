@@ -167,7 +167,7 @@ Uses User module for association and Database module for storage.
 
 ## 👤 Author / Credits
 
-[Kavan Kumar Patel](https://github.com/KavanKumarpatel)
+[Nimisha Dabhi](https://github.com/nimisha2099)
 
 ---
 
